@@ -27,4 +27,4 @@ CalculatorX is an open-source project, and we welcome contributions to enhance f
 
 Experience the convenience of swift and accurate calculations with CalculatorX. Embrace the power of simplicity and efficiency.
 
-[🧮 Live Demo](https://your-website.com/calculator-x-demo)
+[🧮 Live Demo](https://argha-paul-2002.github.io/Calculator_JS/)
